@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Hi, I’m Pannaga  
 
-<!--
-**pannaga65/pannaga65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
 
-Here are some ideas to get you started:
+🚀 I recently launched my project: **Habitari Habit Tracker**  
+👉 🌐 [Visit Website](https://habitari.site)  
+📱 [Get it on Google Play](https://play.google.com/store/apps/details?id=com.habitari.habitmaster)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 About Habitari
+- Build daily habits  
+- Track progress offline  
+- Private, simple, and effective  
+
+💡 Check it out and let me know what you think!
